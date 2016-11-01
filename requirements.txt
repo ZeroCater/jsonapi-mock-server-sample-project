@@ -1,1 +1,1 @@
-jsonapi-mock-server==0.3
+jsonapi-mock-server==0.4
