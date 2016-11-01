@@ -1,2 +1,1 @@
-#jsonapi-mock-server==0.3
--e git+http://github.com/zerocater/jsonapi-mock-server.git#egg=jsonapi_mock_server
+jsonapi-mock-server==0.3
